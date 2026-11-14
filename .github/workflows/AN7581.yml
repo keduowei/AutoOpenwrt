@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/pbs05/ponwrt
+  REPO_URL: https://github.com/wuziwei/ponwrt-ZN504-HG5585F
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: 7581.config
